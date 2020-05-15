@@ -1,2 +1,2 @@
 # SpringDemo
-Spring Framework and Spring Boot Demo Conference mapping app using postgreSQL and Rest API
+Spring Framework and Spring Boot Demo Conference scheduling app using postgreSQL and Rest API
